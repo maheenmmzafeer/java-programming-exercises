@@ -4,8 +4,6 @@ Collection of Java exercises and coding challenges completed while learning Java
 
 This repository can be useful for beginners looking to understand core Java concepts through small practical examples.
 
-This repository is intended as a personal learning archive to track practice work, revisit Java concepts, and keep course exercises organized in one place.
-
 ## Concepts Covered
 
 - Variables and Data Types
@@ -28,7 +26,6 @@ Students and beginners learning Java fundamentals.
 - Method Overloading
 - Number Palindrome
 - Largest Prime
-- Flour Pack Problem
 - Input Calculator
 - Reading User Input
 - Prime Number Challenge
