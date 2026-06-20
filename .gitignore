@@ -1,0 +1,14 @@
+# Java / IDE
+.idea/
+*.iml
+out/
+*.class
+
+# Build tools
+target/
+build/
+dist/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
